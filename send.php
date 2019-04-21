@@ -1,6 +1,6 @@
 <?php 
-$presenza
-$nome = ['name'];
+$presenza = _POST['presenza'];
+$nome = _POST['name'];
 $dascrivere = $nome . $presenza;
 
 ?>
